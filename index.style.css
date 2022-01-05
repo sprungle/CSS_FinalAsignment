@@ -1,0 +1,73 @@
+
+body{
+    margin: 0%;
+    padding: 0%;
+    text-align: center;
+    
+}
+
+#content {
+    height: 100vh;
+}
+
+body{
+    background-image: url(garden.jpg);
+    margin: 0%;
+    padding: 0%;
+    /* font-family: oswald; HAE GOOGLESTA */
+}
+
+#content {
+    height: 100vh;
+    display: grid;
+   }
+
+header{
+    font-size: 24px;
+    color: white;
+    font-style: bold;    
+}
+
+#startbutton{
+    margin: 50px 100px 0px 100px;
+    padding: 10px;
+    background-color: rgba(239, 75, 63, 1);
+    border-radius: 20px;
+    color: white;
+    font-size: 24px;    
+}
+
+footer{
+    color: white;
+    font-size: 18px;
+    background-color: rgba(11, 19, 48, 1);
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover{
+    color: rgba(11, 19, 48, 1);
+}
+
+ @media screen and (min-width: 600px) {
+
+    header{      
+        font-size: 40px;
+    }
+
+    #startbutton{
+        font-size: 35px;
+        margin: 50px 300px;
+        padding: 10px;
+        background-color: rgba(239, 75, 63, 1);
+        border-radius: 20px;
+        color: white;
+        font-size: 24px;    
+    }
+    
+    footer{
+        font-size: 25px;        
+    }
+}

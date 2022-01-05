@@ -1,0 +1,50 @@
+
+/* MOBILE   ________ */
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Oswald', sans-serif;
+}
+
+#content {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 15% 1fr 15%;
+    
+}
+
+header {
+    padding: 50px 20px;
+    
+}
+
+article{
+    background-color: rgba(11, 19, 48, 1);
+    font-size: 24px;
+}
+a{
+    color: white;
+}
+
+a:hover{
+    color: rgba(255, 188, 166, 1); 
+}
+
+
+ footer{
+    background-color: rgba(11, 19, 48, 1);
+    color: white;
+    text-align: center;
+    font-style: italic;
+    }
+
+
+article{
+    text-align: center;
+     padding: 20px;
+     font-size: 18px;
+ }
+
+ article div a{
+     color: none;
+ }

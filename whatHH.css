@@ -1,0 +1,80 @@
+
+/* MOBILE   ________ */
+body{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Oswald', sans-serif;
+}
+
+#content {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 15% 1fr 15%;
+}
+
+header {
+    font-size: 24px;
+    padding: 50px 20px;
+}
+
+ nav{
+     display: none;
+ }
+
+ footer{
+     background-color: rgba(11, 19, 48, 1);
+    color: white;
+    }
+footer div{
+    font-style: italic;
+    padding: 20px 20px;
+    font-size: 18px;
+   
+}
+
+article{
+     padding: 20px;
+     font-size: 18px;
+ }
+/* __DESKTOP_______________________________ */
+ @media screen and (min-width: 600px) {
+
+    #content {
+        grid-template-columns: 300px 1fr;
+    }
+
+    header{
+        grid-column: 2/3;
+        font-size: 35px;
+        padding: 50px;
+    }
+
+    header a{
+        display: none;
+    }
+
+     nav{ 
+         display: block;
+         grid-row: 1/3;
+         font-size: 30px;
+         padding: 50px;
+         background-color: rgba(255, 188, 166, 1);        
+    }
+
+    nav div{
+        margin: 35px;
+    }
+
+    article{
+        font-size: 25px;
+    }
+    
+    footer{
+        grid-column: 1/3;
+        font-size: 25px;        
+        padding: 40px 320px;
+        
+    }
+
+
+}
