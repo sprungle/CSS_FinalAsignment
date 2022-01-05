@@ -17,8 +17,6 @@ header{
 }
 
  nav{
-    /* lets hide nav from mobile
-    for now! */
      display: none;
  }
 
