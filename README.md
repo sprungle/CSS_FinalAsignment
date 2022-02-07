@@ -4,17 +4,12 @@ This is my final assignment project for 5 credit course on HTML/CSS.
 It is a web site for booking a vacation home at imaginary company called
 Holiday Homes.
 
-Website consists of 
--front page (index)
--menu
--search page
--contact page
--What is Holiday Homes -page
+Website consists of front page (index), menu, search page, contact page and What is Holiday Homes -page.
 
 Github repository contains also Holiday Homes -logo in different versions.
 Logo was designed by me using Figma.
 
-All contents and theme are designed by me.
+All contents and theme are designed by me, mainly by using Figma.
 
 Page can be viewed in broswer through belov link:
 https://sprungle.github.io/CSS_FinalAsignment/
