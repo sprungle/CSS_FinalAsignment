@@ -8,6 +8,7 @@ Assignment was graded by teacher as 92 points of out 100 (UI Design,
 page implementation and techniques, responsive behavior, publishing, 
 file and code conventions).
 
-This is demo of the very first outcomes of my learning progress, and thus 
-the outcome isn't exactly as tidy as what I see as a good example
-to be submited to an actual client.
+This is a demo of the very first outcomes of my learning progress, and thus 
+the outcome isn't exactly as technically throurough or visually estheatic 
+as what I see as a good example to be submited to an actual client.
+But it's a start!
