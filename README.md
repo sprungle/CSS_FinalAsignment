@@ -19,6 +19,6 @@ page implementation and techniques, responsive behavior, publishing,
 file and code conventions).
 
 This is a demo of the very first outcomes of my learning progress, and thus 
-the outcome isn't exactly as technically throurough or visually estheatic 
+the outcome isn't exactly as technically throurough or visually aesthetic 
 as what I see as a good example to be submited to an actual client.
 But it's a start!
